@@ -1,0 +1,164 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0f1</Version>
+<Cluster>
+<Name>UI Sweep</Name>
+<NumElts>26</NumElts>
+<Refnum>
+<Name>Function Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000010</Val>
+</Refnum>
+<Refnum>
+<Name>Speed Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Range Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Comparator Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>BIN Display Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Enable Count Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Beeper Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>BIN NO. Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Low Limit Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>High Limit Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Nominal Value Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Enable Sweep</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep Mode Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep Display Mode Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep Parameter Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Interporlation Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep Step Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Autoscale Sweep</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Start Freq Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Stop Freq Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Autoscale Frequency</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep Low Limit Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Sweep High Limit Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Freq Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Level Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>TabCtl Refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</LVData>

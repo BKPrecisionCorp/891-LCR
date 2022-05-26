@@ -1,0 +1,50 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0f1</Version>
+<Cluster>
+<Name>Settings in</Name>
+<NumElts>6</NumElts>
+<Refnum>
+<Name>VISA resource name</Name>
+<RefKind>VISA</RefKind>
+<Val></Val>
+</Refnum>
+<Cluster>
+<Name>Logging Configuration</Name>
+<NumElts>3</NumElts>
+<Refnum>
+<Name>Byte Stream File Refnum</Name>
+<RefKind>Byte Stream File</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
+<Path>
+<Name>File Path</Name>
+<Val>C:\Users\ARamirez.BK1\Desktop\Labview Project\891 Software\891 Software</Val>
+</Path>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Cluster>
+<U16>
+<Name>Comparator Mode</Name>
+<Val>0</Val>
+</U16>
+<Boolean>
+<Name>BIN State</Name>
+<Val>0</Val>
+</Boolean>
+<Refnum>
+<Name>Start Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Stop Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Control</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</LVData>
